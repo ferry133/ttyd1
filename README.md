@@ -7,7 +7,7 @@
 
 # ttyd - Share your terminal over the web
 
-ttyd is a simple command-line tool for sharing terminal over the web.
+ttyd is a simple command-line tool for your sharing terminal over the web.
 
 ![screenshot](https://github.com/tsl0922/ttyd/raw/main/screenshot.gif)
 
